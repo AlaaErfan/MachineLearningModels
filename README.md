@@ -7,6 +7,7 @@ Selected Topics in machine learning 1 Projects
 This data is preprocessed to ensure that it is clean and standardized before being used in the machine learning models.
 - Model 1 -> Logistic regression with accuracy 92%
 - Model 2 -> SVM accuracy with 92.8%
+
 Dataset Link : https://www.kaggle.com/code/alaaerfan/notebook3194604e80
 
 ## Used Libraries 
